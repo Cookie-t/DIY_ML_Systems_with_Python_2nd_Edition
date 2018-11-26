@@ -3,33 +3,59 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 ## 第二版概要：
 《Python机器学习实践（第二版）》一书适合所有对（深度）机器学习（Machine Learning）、数据挖掘（Data Mining），以及自然语言处理（Natural Language Processing）的技术实践感兴趣的初学者。
+
 本书从零开始，以Python编程语言为基础，在不赘述大量数学模型与复杂编程知识的前提下，带领读者逐步熟悉并且掌握当下最流行的（深度）机器学习、数据挖掘，以及自然语言处理的开源工具库（包）：Scikit-learn、Google Tensorflow、Pandas、Matplotlib、NLTK、Gensim、XGBoost、OpenAI Gym等。从而使读者最终对Kaggle（国际最流行的机器学习竞赛平台）上的公开竞赛，乃至现实中的工程或者科研难题，都能够以Python语言快速上手；并结合本书推荐的开源工具，搭建行之有效的计算机程序来解决问题。全书分为五大章节，具体包括：
+
 1.简介篇：介绍了机器学习的基本概念和要素、Python编程的基础知识，以及实践本书后续实例所需要的平台搭建步骤。
+
 2.基础篇：讲述如何使用Scikit-learn作为基础工具，学习经典的（非深度/浅层）机器学习（监督、半监督、无监督）模型，并从事相关的数据分析和预测任务。
+
 3.进阶篇：涉及怎样借助Google TensorFlow平台实现深度（前馈、卷积、循环、对抗等）网络模型和技术，进一步提升现有机器学习系统的性能表现。
+
 4.高级篇：阐述了对机器学习模型进一步优化选择和（超）参数调节的常用技巧；并补充了几项时下前沿的研究课题和一些处理实际应用所需要的其他工具（平台）。
+
 5.实战篇：以Kaggle平台上的实际竞赛任务为例，帮助读者一步步使用本书介绍过的传统机器学习以及深度学习的模型和技巧，完成多项具有代表性的竞赛任务。
 
 ## 第二版目录：
+
 推荐序	9
+
 第一版前言	13
+
 第二版前言	15
+
 1	简介篇	17
+
 1.1	机器学习综述	18
+
 1.1.1	任务（Task）	22
+
 1.1.2	经验（Experience）	25
+
 1.1.3	性能（Performance）	27
+
 1.2	Python编程库	32
+
 1.2.1	为什么要使用Python	32
+
 1.2.2	Python机器学习的优势	33
+
 1.2.3	NumPy & SciPy	35
+
 1.2.4	Pandas	35
+
 1.2.5	Matplotlib	36
+
 1.2.6	Scikit-learn	36
+
 1.2.7	Anaconda	37
+
 1.2.8	Google TensorFlow	37
+
 1.3	Python环境配置	40
+
 1.3.1	Windows系统的环境搭建	40
+
 1.3.2	Mac OS系统的环境搭建	41
 1.3.3	Linux系统的环境搭建	51
 1.4	Python编程基础	51
