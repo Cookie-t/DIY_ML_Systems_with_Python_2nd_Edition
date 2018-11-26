@@ -1,4 +1,4 @@
-# 《Python机器学习及实践：从零开始通往Kaggle竞赛之路》第2版开源数据和代码
+# 《Python机器学习及实践：从零开始通往Kaggle竞赛之路（第2版）》开源数据和代码
 Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 ## 第二版概要：
@@ -57,66 +57,127 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 1.3.1	Windows系统的环境搭建	40
 
 1.3.2	Mac OS系统的环境搭建	41
+
 1.3.3	Linux系统的环境搭建	51
+
 1.4	Python编程基础	51
+
 1.4.1	Python基本语法	51
+
 1.4.2	Python数据类型	54
+
 1.4.3	Python数据运算	57
+
 1.4.4	Python流程控制	62
+
 1.4.5	Python函数（模块）设计	65
+
 1.4.6	Python编程库（包）导入	66
+
 1.4.7	Python编程综合实践	67
+
 1.5	章末小结	70
+
 2	基础篇	71
+
 2.1	经典（浅层）监督学习（Supervised Learning）	71
+
 2.1.1	分类学习（Classification）	72
+
 2.1.2	回归预测（Regression）	75
+
 2.2	经典（浅层）半监督学习（Semi-supervised Learning）	76
+
 2.2.1	自训练学习（Self-training）	76
+
 2.2.2	协同训练学习（Co-training）	76
+
 2.2.3	标签传播算法（Label Propagation）	76
+
 2.3	经典（浅层）无监督学习（Unsupervised Learning）	76
+
 2.3.1	聚类算法（Clustering）	76
+
 2.3.2	特征降维与可视化（Dimensionality Reduction & Visualization）	76
+
 2.3.3	概率密度估计（Density Estimation）	76
+
 2.3.4	离群点检测（Novelty and Outlier Detection）	76
+
 2.4	章末小结	76
+
 3	进阶篇	77
+
 3.1	人工神经网络发展简史	77
+
 3.2	前馈神经网络（Feedforward Neural Network）	79
+
 3.3	卷积神经网络（Convolutional Neural Network）	79
+
 3.4	循环神经网络（Recurrent Neural Network）	79
+
 3.5	自动编码器（AutoEncoder）	79
+
 3.6	注意力机制（Attention Mechanism）	79
+
 3.7	生成对抗网络（Generative Adversarial Network）	79
+
 3.8	章末小结	79
+
 4	高级篇	80
+
 4.1	模型优化技巧	80
+
 4.1.1	特征抽取（Feature Extraction）	80
+
 4.1.2	特征选择（Feature Selection）	80
+
 4.1.3	模型过拟合与欠拟合 （Overfitting & Underfitting）	80
+
 4.1.4	模型正则化 （Regularization）	80
+
 4.1.5	随机失活（Dropout）	80
+
 4.1.6	模型检验 （Validation）	80
+
 4.1.7	超参数搜索 （Grid Search）	80
+
 4.2	其他流行库实践	81
+
 4.2.1	自然语言处理工具包（NLTK）	81
+
 4.2.2	词向量技术（W2V, Glove & ELMo）	81
+
 4.2.3	XGBoost模型	81
+
 4.2.4	OpenAI Gym	81
+
 4.3	前沿课题探究	82
+
 4.3.1	深度强化学习（Deep Reinforcement Learning）	82
+
 4.3.2	生成对抗网络辅助的半监督学习（Semi-supervised Learning with Generative Adversarial Networks）	82
+
 4.3.3	对抗网络强化的半监督学习（Adversarial Networks for Reinforced Semi-supervised Learning）	82
+
 4.4	章末小结	82
+
 5	实战篇	83
+
 5.1	Kaggle平台简介	83
+
 5.2	Titanic罹难乘客预测	83
+
 5.3	Ames房产价值评估	83
+
 5.4	IMDB影评打分估计	83
+
 5.5	CIFAR-10图像识别	83
+
 5.6	章末小结	83
+
 第一版后记	84
+
 第二版后记	86
 
 
