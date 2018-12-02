@@ -18,13 +18,14 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 ## 第二版目录：
 
+目录
 推荐序	9
 
 第一版前言	13
 
 第二版前言	15
 
-1	简介篇	17
+1	简介篇	18
 
 1.1	机器学习综述	18
 
@@ -34,29 +35,29 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 1.1.3	性能（Performance）	27
 
-1.2	Python编程库	32
+1.2	Python编程库	31
 
 1.2.1	为什么要使用Python	32
 
 1.2.2	Python机器学习的优势	33
 
-1.2.3	NumPy & SciPy	35
+1.2.3	NumPy & SciPy	34
 
 1.2.4	Pandas	35
 
-1.2.5	Matplotlib	36
+1.2.5	Matplotlib	35
 
 1.2.6	Scikit-learn	36
 
-1.2.7	Anaconda	37
+1.2.7	Anaconda	36
 
 1.2.8	Google TensorFlow	37
 
-1.3	Python环境配置	40
+1.3	Python环境配置	39
 
 1.3.1	Windows系统的环境搭建	40
 
-1.3.2	Mac OS系统的环境搭建	41
+1.3.2	Mac OS系统的环境搭建	40
 
 1.3.3	Linux系统的环境搭建	51
 
@@ -84,21 +85,21 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 2.1.1	分类学习（Classification）	72
 
-2.1.2	回归预测（Regression）	75
+2.1.2	回归预测（Regression）	74
 
-2.2	经典（浅层）半监督学习（Semi-supervised Learning）	76
+2.2	经典（浅层）半监督学习（Semi-supervised Learning）	75
 
-2.2.1	自训练学习（Self-training）	76
+2.2.1	自训练学习（Self-training）	75
 
-2.2.2	协同训练学习（Co-training）	76
+2.2.2	协同训练学习（Co-training）	75
 
-2.2.3	标签传播算法（Label Propagation）	76
+2.2.3	标签传播算法（Label Propagation）	75
 
-2.3	经典（浅层）无监督学习（Unsupervised Learning）	76
+2.3	经典（浅层）无监督学习（Unsupervised Learning）	75
 
-2.3.1	聚类算法（Clustering）	76
+2.3.1	聚类算法（Clustering）	75
 
-2.3.2	特征降维与可视化（Dimensionality Reduction & Visualization）	76
+2.3.2	特征降维与可视化（Dimensionality Reduction & Visualization）	75
 
 2.3.3	概率密度估计（Density Estimation）	76
 
@@ -106,79 +107,79 @@ Datasets,tools and codes for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 2.4	章末小结	76
 
-3	进阶篇	77
+3	进阶篇	76
 
-3.1	人工神经网络发展简史	77
+3.1	人工神经网络发展简史	76
 
-3.2	前馈神经网络（Feedforward Neural Network）	79
+3.2	前馈神经网络（Feedforward Neural Network）	78
 
-3.3	卷积神经网络（Convolutional Neural Network）	79
+3.3	卷积神经网络（Convolutional Neural Network）	78
 
-3.4	循环神经网络（Recurrent Neural Network）	79
+3.4	循环神经网络（Recurrent Neural Network）	78
 
-3.5	自动编码器（AutoEncoder）	79
+3.5	自动编码器（AutoEncoder）	78
 
-3.6	注意力机制（Attention Mechanism）	79
+3.6	注意力机制（Attention Mechanism）	78
 
-3.7	生成对抗网络（Generative Adversarial Network）	79
+3.7	生成对抗网络（Generative Adversarial Network）	78
 
-3.8	章末小结	79
+3.8	章末小结	78
 
-4	高级篇	80
+4	高级篇	79
 
-4.1	模型优化技巧	80
+4.1	模型优化技巧	79
 
-4.1.1	特征抽取（Feature Extraction）	80
+4.1.1	特征抽取（Feature Extraction）	79
 
-4.1.2	特征选择（Feature Selection）	80
+4.1.2	特征选择（Feature Selection）	79
 
-4.1.3	模型过拟合与欠拟合 （Overfitting & Underfitting）	80
+4.1.3	模型过拟合与欠拟合 （Overfitting & Underfitting）	79
 
-4.1.4	模型正则化 （Regularization）	80
+4.1.4	模型正则化 （Regularization）	79
 
-4.1.5	随机失活（Dropout）	80
+4.1.5	随机失活（Dropout）	79
 
-4.1.6	模型检验 （Validation）	80
+4.1.6	模型检验 （Validation）	79
 
-4.1.7	超参数搜索 （Grid Search）	80
+4.1.7	超参数搜索 （Grid Search）	79
 
-4.2	其他流行库实践	81
+4.2	其他流行库实践	80
 
-4.2.1	自然语言处理工具包（NLTK）	81
+4.2.1	自然语言处理工具包（NLTK）	80
 
-4.2.2	词向量技术（W2V, Glove & ELMo）	81
+4.2.2	词向量技术（W2V, Glove & ELMo）	80
 
-4.2.3	XGBoost模型	81
+4.2.3	XGBoost模型	80
 
-4.2.4	OpenAI Gym	81
+4.2.4	OpenAI Gym	80
 
-4.3	前沿课题探究	82
+4.3	前沿课题探究	81
 
-4.3.1	深度强化学习（Deep Reinforcement Learning）	82
+4.3.1	深度强化学习（Deep Reinforcement Learning）	81
 
-4.3.2	生成对抗网络辅助的半监督学习（Semi-supervised Learning with Generative Adversarial Networks）	82
+4.3.2	生成对抗网络辅助的半监督学习（Semi-supervised Learning with Generative Adversarial Networks）	81
 
-4.3.3	对抗网络强化的半监督学习（Adversarial Networks for Reinforced Semi-supervised Learning）	82
+4.3.3	对抗网络强化的半监督学习（Adversarial Networks for Reinforced Semi-supervised Learning）	81
 
-4.4	章末小结	82
+4.4	章末小结	81
 
-5	实战篇	83
+5	实战篇	82
 
-5.1	Kaggle平台简介	83
+5.1	Kaggle平台简介	82
 
-5.2	Titanic罹难乘客预测	83
+5.2	Titanic罹难乘客预测	82
 
-5.3	Ames房产价值评估	83
+5.3	Ames房产价值评估	82
 
-5.4	IMDB影评打分估计	83
+5.4	IMDB影评打分估计	82
 
-5.5	CIFAR-10图像识别	83
+5.5	CIFAR-10图像识别	82
 
-5.6	章末小结	83
+5.6	章末小结	82
 
-第一版后记	84
+第一版后记	83
 
-第二版后记	86
+第二版后记	85
 
 
 ## 第二版代码下载地址：
