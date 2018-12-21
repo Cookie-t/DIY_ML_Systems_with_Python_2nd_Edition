@@ -1,3 +1,6 @@
 Chapter_3/datasets/fashionmnist/*.csv
 Chapter_4/datasets/fashionmnist/*.csv
 Chapter_5/datasets/*
+Chapter_4/datasets/mnist/*.csv
+Chapter_3/datasets/mnist/*.csv
+Chapter_2/datasets/mnist/*.csv
